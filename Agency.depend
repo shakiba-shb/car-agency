@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1453042941 source:c:\users\shakiba\desktop\agency\agency.cpp
+	<iostream>
+	"Agency.h"
+
+1453042782 source:c:\users\shakiba\desktop\agency\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	"Agency.h"
+
+1453039950 c:\users\shakiba\desktop\agency\agency.h
+	<iostream>
+
